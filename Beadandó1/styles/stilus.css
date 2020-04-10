@@ -1,0 +1,146 @@
+header{
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border: 0px 0px 0px 0px;   
+}
+
+header img{
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+border: 0px 0px 0px 0px;
+}
+
+div#wrapper{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  border: 0px 0px 0px 0px;
+  }
+
+nav{
+    display: block;
+    color: #000;
+    padding: 10px 0px;
+    text-decoration: none;
+    display: inline;
+    
+}
+
+.jobbra{
+  float:right;
+  padding: 0px 30px 0px 0px;
+  display: block;
+  color: #000;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration:none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+
+}
+
+.image{
+    width: 100%;
+    height:auto;
+}
+
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+li {
+    border-right: 1px solid #bbb;
+    list-style: none;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    display: inline;
+  }
+  
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration:none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500; 
+    float: left;
+  }
+  
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+aside{
+  display: inline;
+}
+
+div#content{
+  padding: 20px 20px 20px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.bemutat{
+  background-color:#555;
+  padding: 10px 10px 10px 10px;
+  margin:10px 0px 10px 0px;
+  box-shadow: gray 4px 4px 5px;
+  border-radius: 10px;
+  color:white;
+}
+
+div#kezdolap h1{
+  text-align: center;
+  padding: 0px 0px 10px 0px;
+  text-shadow: gray 1px 1px;
+}
+
+div#kezdolap p{
+  text-shadow: black 1px 1px;
+}
+
+.bemutat:hover{
+  box-shadow: 0 0 10px rgb(0, 24, 37);
+}
+
+div#kezdolap h3{
+  width: 100%;
+  color: white;
+  text-shadow: gray 1px 1px;
+}
+
+div#kapcsolat iframe{
+width: 100%;
+}
+
+footer{
+  padding: 0px 0px 0px 0px;
+  display: block;
+  color: #000;
+  text-align: center;
+  background-color: rgb(61, 61, 61);
+  color: white;
+  padding: 8px 8px;
+  text-decoration:none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  position: fixed;
+  bottom: 0;
+  right:0;
+  border-radius: 10px 0px 0px 0px;
+  box-shadow: black 4px 4px 10px;
+}
+
+table {
+  table-layout: auto;
+  border-collapse: collapse;
+  text-align: center;
+  width: 100%;
+  overflow-x:auto;
+}
