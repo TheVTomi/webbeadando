@@ -1,4 +1,5 @@
 <table>
+<link rel="stylesheet" href="./styles/artabla.css" type="text/css">
     <tr>
         <th>Gyors gépi mosás</th>
         <th>Normál Gépi mosás</th>

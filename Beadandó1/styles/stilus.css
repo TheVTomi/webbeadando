@@ -17,9 +17,10 @@ div#wrapper{
   }
 
 nav{
-    display: block;
+    display: inline-block;
     color: #000;
-    padding: 10px 0px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
     text-decoration: none;
     display: inline;
     
@@ -40,7 +41,7 @@ nav{
 
 .image{
     width: 100%;
-    height:auto;
+    box-shadow: #555 0px 1px 5px;
 }
 
 body{
@@ -54,8 +55,8 @@ li {
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     background-color: #f1f1f1;
     display: inline;
   }
@@ -67,17 +68,18 @@ li a {
     padding: 8px 16px;
     text-decoration:none;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 500; 
-    float: left;
+    font-weight: 500;
+    float:left;
   }
   
 li a:hover {
     background-color: #555;
     color: white;
+    
   }
 
 aside{
-  display: inline;
+display: inline;
 }
 
 div#content{
@@ -97,7 +99,7 @@ div#content{
 
 div#kezdolap h1{
   text-align: center;
-  padding: 0px 0px 10px 0px;
+  padding: 0px 0px 20px 0px;
   text-shadow: gray 1px 1px;
 }
 
@@ -113,10 +115,6 @@ div#kezdolap h3{
   width: 100%;
   color: white;
   text-shadow: gray 1px 1px;
-}
-
-div#kapcsolat iframe{
-width: 100%;
 }
 
 footer{
@@ -137,10 +135,3 @@ footer{
   box-shadow: black 4px 4px 10px;
 }
 
-table {
-  table-layout: auto;
-  border-collapse: collapse;
-  text-align: center;
-  width: 100%;
-  overflow-x:auto;
-}
