@@ -7,7 +7,7 @@ $fejlec = array(
     'kepforras' => 'aktuális.jpg',
     'kepalt' => 'logo',
 	'cim' => '',
-	'motto' => ''
+	'motto' => '' 
 );
 
 $lablec = array(
