@@ -97,6 +97,13 @@ div#content{
   color:white;
 }
 
+div#iframe
+{
+align-content:center ;
+margin: auto;
+width: 100%;
+}
+
 div#kezdolap h1{
   text-align: center;
   padding: 0px 0px 20px 0px;

@@ -19,7 +19,7 @@ $oldalak = array(
 	'/' => array('fajl' => 'kezdolap', 'szoveg' => 'Kezdőlap', 'menun' => array(1,1)),
     'áraink' => array('fajl' => 'araink', 'szoveg' => 'Áraink', 'menun' => array(1,1)),
     'kapcsolat' => array('fajl' => 'kapcsolat', 'szoveg' => 'Kapcsolat', 'menun' => array(1,1)),
-    'galery' => array('fajl' => 'galery', 'szoveg' => 'Képfeltöltés', 'menun' => array(1,1)),
+    'galery' => array('fajl' => 'galery', 'szoveg' => 'Képfeltöltés', 'menun' => array(0,1)),
     'email' => array('fajl' => 'email', 'szoveg' => 'Üzenetküldés', 'menun' => array(1,1)),
     'belepes' => array('fajl' => 'belepes', 'szoveg' => 'Belépés', 'menun' => array(1,0)),
     'kilepes' => array('fajl' => 'kilepes', 'szoveg' => 'Kilépés', 'menun' => array(0,1)),
